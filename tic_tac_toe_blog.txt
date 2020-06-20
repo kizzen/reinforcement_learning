@@ -1,0 +1,11 @@
+Building a tic-tac-toe game using Pandas 
+
+
+
+When I first started learning Python, I wanted to test the knowledge I was acquiring in real time by building applications with the new information I was getting. One of the first libraries I learned in Python was Pandas, and I thought building an app around this library would be a great way to test/master my knowledge of pandas. Giving pandas uses dataframes, I thought I could implement a tic tac toe using a 3x3 dataframe. 
+
+Designing the game
+Before starting the game, I needed to design what I envisioned the game would play like. Some key game design that I decided on were:
+	- creating a game that can be played in the terminal
+	- 
+	- user input using 2 numbers, first number o
